@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "PUNK ROCKY",
+  "base_artist": "A$AP Rocky",
+  "createdAt": "2026-02-18T13:43:04.605781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Punk Rocky",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/01_Punk_Rocky_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "punk rocky",
+      "artist": "aap rocky",
+      "has_synced": true,
+      "path": "select/02_punk_rocky_aap_rocky.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Punk Rocky (Paused)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/03_Punk_Rocky_(Paused)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/04_PUNK_ROCKY_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Punk Rocky",
+      "artist": "ASAP Rocky",
+      "has_synced": false,
+      "path": "select/pl_01_Punk_Rocky_ASAP_Rocky.txt"
+    }
+  ]
+}
